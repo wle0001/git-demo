@@ -1,5 +1,6 @@
 import os
+import numpy as np
 
 print("Hello World!")
 
-print("This is actually working!!!")
+print(np.arange(10))
