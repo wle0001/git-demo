@@ -3,4 +3,4 @@ import numpy as np
 
 print("Hello World!")
 
-print(np.arange(10))
+print('We all love SERVIR')
